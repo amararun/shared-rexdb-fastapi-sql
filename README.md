@@ -150,3 +150,9 @@ Detailed guide on how to implement CustomGPT for Analytics Assistant, including 
 For a detailed description of all the FastAPI endpoints and how they are implemented in the REX app, visit the 'Build' section at [rex.tigzig.com](https://rex.tigzig.com).
 
 
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
